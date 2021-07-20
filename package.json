@@ -10,7 +10,7 @@
     "axios": "^0.19.0",
     "native-base": "^2.13.7",
     "react": "16.8.3",
-    "react-native": "0.59.10",
+    "react-native": "0.62.3",
     "react-native-dotenv": "^0.2.0",
     "react-native-element": "^1.2.1",
     "react-native-elements": "^1.2.0",
